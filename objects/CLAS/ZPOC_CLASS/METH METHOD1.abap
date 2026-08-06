@@ -1,5 +1,5 @@
   method METHOD1.
 
-Write :'method 1 '. " TR1 chnage via RO
+Write :'method 1 '. " TR1 chnage via RO 1
 
   endmethod.
