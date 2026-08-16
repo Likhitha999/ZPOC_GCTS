@@ -2,4 +2,5 @@
 
   write : 'versrion 1'.
   write : 'version 2'.
+  write : 'version 3'.
   endmethod.
