@@ -1,3 +1,5 @@
   METHOD DEMOPACKAGE1.
 
+write:'TR9'.
+
   ENDMETHOD.
