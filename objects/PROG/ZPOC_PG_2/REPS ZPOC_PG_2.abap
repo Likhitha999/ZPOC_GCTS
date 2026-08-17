@@ -6,3 +6,4 @@
 REPORT ZPOC_PG_2.
 
 Write:'Hybrid TR 5'.
+write:'Hybrid TR10'.
