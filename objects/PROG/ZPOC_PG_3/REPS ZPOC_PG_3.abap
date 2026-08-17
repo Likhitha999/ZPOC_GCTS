@@ -6,3 +6,4 @@
 REPORT ZPOC_PG_3.
 write: 'DEMO WORK 1'.
 write:'TR7'.
+write:'TR8'.
