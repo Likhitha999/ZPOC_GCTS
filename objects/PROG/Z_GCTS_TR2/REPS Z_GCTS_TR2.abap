@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT z_gcts_tr2.
+REPORT z_gcts_tr2...
 
 TABLES: vbak, vbap.
 
@@ -402,7 +402,7 @@ CLASS ltcl_helper_test DEFINITION FINAL FOR TESTING
   DURATION SHORT RISK LEVEL HARMLESS.
   PRIVATE SECTION.
     METHODS test_is_recent FOR TESTING.
-    METHODS test_icon FOR TESTING.
+    METHODS test_icon FOR TESTING..
 ENDCLASS.
 
 CLASS ltcl_helper_test IMPLEMENTATION.
