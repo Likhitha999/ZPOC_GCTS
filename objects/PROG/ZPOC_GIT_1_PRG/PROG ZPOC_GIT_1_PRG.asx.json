@@ -1,0 +1,57 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZPOC_GIT_1_PRG",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"ROPL058",
+    "SRCDEP":"",
+    "DEVCLASS":"ZPOC_GIT_1",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2026-09-08",
+    "CHECK_DATE":"2026-09-08",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZPOC_GIT_1_PRG",
+    "VARCL":"X",
+    "SUBC":"1",
+    "RLOAD":"E",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZPOC_GIT_1_PRG",
+    "SPRSL":"E",
+    "TEXT":"Program ZPOC_GIT_1_PRG"
+   }
+  ]
+ }
+]
