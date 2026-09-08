@@ -6,15 +6,15 @@
    {
     "PGMID":"R3TR",
     "OBJECT":"DEVC",
-    "OBJ_NAME":"ZPOC_GIT_1",
+    "OBJ_NAME":"ZPOC_GIT_SUB",
     "KORRNUM":"",
     "SRCSYSTEM":"...",
     "AUTHOR":"ROPL058",
     "SRCDEP":"",
-    "DEVCLASS":"ZPOC_GIT_1",
+    "DEVCLASS":"ZPOC_GIT_SUB",
     "GENFLAG":"",
     "EDTFLAG":"",
-    "CPROJECT":" S",
+    "CPROJECT":" L",
     "MASTERLANG":"E",
     "VERSID":"",
     "PAKNOCHECK":"",
@@ -34,7 +34,7 @@
   "data":
   [
    {
-    "DEVCLASS":"ZPOC_GIT_1",
+    "DEVCLASS":"ZPOC_GIT_SUB",
     "INTSYS":"",
     "CONSYS":"",
     "CTEXT":"",
@@ -46,7 +46,7 @@
     "NAMESPACE":"/0CUST/",
     "TPCLASS":"",
     "SHIPMENT":"",
-    "PARENTCL":"ZPOC_GIT",
+    "PARENTCL":"ZPOC_GIT_1",
     "APPLICAT":"",
     "ERRSEVRTY":"",
     "PERMINHER":"",
@@ -85,9 +85,9 @@
   "data":
   [
    {
-    "DEVCLASS":"ZPOC_GIT_1",
+    "DEVCLASS":"ZPOC_GIT_SUB",
     "SPRAS":"E",
-    "CTEXT":"ZPOC_GIT_1"
+    "CTEXT":"ZPOC_GIT_SUB"
    }
   ]
  }
