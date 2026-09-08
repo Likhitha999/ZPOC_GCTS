@@ -4,3 +4,5 @@ class ZPOC_TEST_1 definition
   create public .
 
 public section.
+
+  methods DEMOPACKAGE2 .

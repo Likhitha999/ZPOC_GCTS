@@ -1,10 +1,10 @@
 *&---------------------------------------------------------------------*
-*& Report ZPOC_PG_3
+*& Report ZPOC_PG_2
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT ZPOC_PG_3.
-write: 'DEMO WORK 1'.
-write:'TR7'.
-write:'TR8'.
-DATA lv_var TYPE ZPOC_DEP.
+REPORT ZPOC_PG_2.
+
+Write:'Hybrid TR 5'.
+write:'Hybrid TR10'.
+write:'Hybriid TR 13'.
